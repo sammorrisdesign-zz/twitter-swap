@@ -10,7 +10,7 @@ Let's swap who we're following for a limited period of time.
 
 ## Local Depencies
 
-1. `npm install -g yo nodemon`
+1. `npm install -g yo nodemon bower`
 2. `cd twitter-swap`
 3. `npm install && bower install`
 
