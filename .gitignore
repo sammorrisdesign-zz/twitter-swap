@@ -11,7 +11,7 @@ dist/
 public/src/css/
 
 # Keys
-config.json
+keys.json
 
 # NPM and Bower dependencies
 node_modules/
